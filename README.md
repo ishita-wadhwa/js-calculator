@@ -15,5 +15,5 @@ The design is inspired by the **Apple iOS Calculator**, giving it a familiar and
 
 ---
 
-## 🖼️ Screenshot  
+## 🖼️ GIF  
 ![Calculator Demo](https://github.com/ishita-wadhwa/js-calculator/blob/main/calculator%20gif.gif?raw=true.gif)
